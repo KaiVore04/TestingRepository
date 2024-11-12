@@ -8,6 +8,8 @@ public class ScoreCounter : MonoBehaviour
     public static int coinAmount; // public static variable to be accessed by other scripts.
     #endregion
 
+
+
     #region Unity Methods
     void Start()
     {
